@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ユメノトビラ[第2話挿入歌]",
+  "base_artist": "桜内梨子 (CV.逢田梨香子)",
+  "createdAt": "2025-12-10T06:17:10.455876Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ユメノトビラ[第2話挿入歌]",
+      "artist": "桜内梨子(CV.逢田梨香子)",
+      "has_synced": true,
+      "path": "select/01_ユメノトビラ[第2話挿入歌]_桜内梨子(CV.逢田梨香子).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ユメノトビラ【第2話挿入歌】",
+      "artist": "逢田梨香子",
+      "has_synced": true,
+      "path": "select/02_ユメノトビラ【第2話挿入歌】_逢田梨香子.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ユメノトビラ [第2話挿入歌]",
+      "artist": "桜内梨子(CV.逢田梨香子)",
+      "has_synced": true,
+      "path": "select/03_ユメノトビラ_[第2話挿入歌]_桜内梨子(CV.逢田梨香子).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ユメノトビラ[第2話挿入歌]",
+      "artist": "桜内梨子 (CV.逢田梨香子)",
+      "has_synced": true,
+      "path": "select/04_ユメノトビラ[第2話挿入歌]_桜内梨子_(CV.逢田梨香子).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ユメノトビラ [第2話挿入歌]",
+      "artist": "桜内梨子",
+      "has_synced": true,
+      "path": "select/05_ユメノトビラ_[第2話挿入歌]_桜内梨子.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ユメノトビラ[第2話挿入歌]",
+      "artist": "桜内梨子(CV.逢田梨香子)",
+      "has_synced": false,
+      "path": "select/pl_01_ユメノトビラ[第2話挿入歌]_桜内梨子(CV.逢田梨香子).txt"
+    }
+  ]
+}
